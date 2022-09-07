@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83e6df15-23ef-4db0-8d17-4eee937c99af" name="Changes" comment="Initial Commit with Arrays">
+    <list default="true" id="83e6df15-23ef-4db0-8d17-4eee937c99af" name="Changes" comment="Corrected position of For Each Loop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/DCDoncaster/calcengine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DCDoncaster/calcengine/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/DCDoncaster/calcengine/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662482293740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Corrected position of For Each Loop">
+      <created>1662487363825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662487363825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +94,7 @@
     <MESSAGE value="Conditional Logic Added" />
     <MESSAGE value="Test Commit" />
     <MESSAGE value="Initial Commit with Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit with Arrays" />
+    <MESSAGE value="Corrected position of For Each Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected position of For Each Loop" />
   </component>
 </project>
