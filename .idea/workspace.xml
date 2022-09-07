@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83e6df15-23ef-4db0-8d17-4eee937c99af" name="Changes" comment="Added Strings to give a more informative output">
+    <list default="true" id="83e6df15-23ef-4db0-8d17-4eee937c99af" name="Changes" comment="Adjusted String format with String Formats">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/DCDoncaster/calcengine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/DCDoncaster/calcengine/Main.java" afterDir="false" />
     </list>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662547354178</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adjusted String format with String Formats">
+      <created>1662558783914</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662558783914</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +136,7 @@
     <MESSAGE value="Added Methods" />
     <MESSAGE value="Added Interactive Elements" />
     <MESSAGE value="Added Strings to give a more informative output" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Strings to give a more informative output" />
+    <MESSAGE value="Adjusted String format with String Formats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjusted String format with String Formats" />
   </component>
 </project>
